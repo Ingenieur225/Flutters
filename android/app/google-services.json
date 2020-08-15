@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806340726315",
+    "firebase_url": "https://adminapps-acefe.firebaseio.com",
+    "project_id": "adminapps-acefe",
+    "storage_bucket": "adminapps-acefe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806340726315:android:d16ecf9bd78c564e73e46e",
+        "android_client_info": {
+          "package_name": "com.example.adminapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806340726315-iqhqob8bp13nsd2tmdtpmnha556polvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminapps",
+            "certificate_hash": "4dbdaf84a19ea600e41611232c37b109144e3ed9"
+          }
+        },
+        {
+          "client_id": "806340726315-rcbvpde6a8hbbog3nmkbagi687v64m1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJjNhwxJY1EE9JBkiR5IzoAOQbPo-UlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806340726315-rcbvpde6a8hbbog3nmkbagi687v64m1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
